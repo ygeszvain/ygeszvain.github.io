@@ -21,9 +21,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tech Steps by Data Flut                          # the main title
+title: Tech Steps                           # the main title
 
-tagline: Becoming Full Stack   # it will display as the sub-title
+tagline: Powered by Data Flut   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A community to help you build the foundation to become a full stack developer.
