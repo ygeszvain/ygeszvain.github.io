@@ -1,0 +1,1 @@
+[ { "title": "Build a Docker Image", "url": "/posts/build-a-docker-image/", "categories": "Software Engineering", "tags": "steps", "date": "2022-09-06 22:00:00 -0500", "snippet": "3 Steps to build a Docker Image Set up a correct folder structure. Create a Dockerfile and a requirements file. Run the Docker build command." } ]
