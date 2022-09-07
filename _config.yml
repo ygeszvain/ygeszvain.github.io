@@ -34,8 +34,8 @@ url: 'https://www.techsteps.net'
 github:
   username: ygeszvain             # change to your github username
 
-twitter:
-  username:             # change to your twitter username
+#twitter:
+#  username:             # change to your twitter username
 
 social:
   # Change to your full name.
@@ -48,7 +48,7 @@ social:
     - https://github.com/ygeszvain       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/ygeszvain
 
 google_site_verification:               # fill in to your verification string
 
